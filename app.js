@@ -4,7 +4,7 @@ const addressLong = 200;
 const positionLat = 10;
 const positionLong = 20;
 
-//Расчет расстояния
+//Расчет расстояния до точки
 
 let distanceLat = addressLat - positionLat;
 let distanceLong = addressLong - positionLong;
